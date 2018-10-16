@@ -180,7 +180,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <hr/>
 
 <h2 id="registration">Registration</h2>
-<p>Please register <a href="https://goo.gl/forms/Wo5sVKyEFQm2DjQB2">here</a>.</p>
+<p>Please register <a href="https://goo.gl/forms/fGfzyjGCoGXPGEoC3">here</a>.</p>
 <hr/>
 
 {% comment %}
@@ -220,7 +220,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
   If you want to use an Etherpad, go to
 
-      http://pad.software-carpentry.org/2018-04-23-Imperial
+      http://pad.software-carpentry.org/2018-11-07-Imperial
 
   where 'YYYY-MM-DD-site' is the identifier for your workshop,
   e.g., '2015-06-10-esu'.
@@ -231,7 +231,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <h2 id="setup">Class online document</h2>
 <p id="collaborative_notes">
-  <b>We will use this <a href=" http://pad.software-carpentry.org/2018-04-23-Imperial">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.</b>
+  <b>We will use this <a href=" http://pad.software-carpentry.org/2018-11-07-Imperial">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.</b>
 </p>
 
 
