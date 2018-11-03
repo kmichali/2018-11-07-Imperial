@@ -179,8 +179,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <hr/>
 
-<h2 id="registration">Registration</h2>
-<p>Please register <a href="https://goo.gl/forms/fGfzyjGCoGXPGEoC3">here</a>.</p>
+<h2 id="registration">REGISTRATION</h2>
+<p>The class is now fully booked.</p>
 <hr/>
 
 {% comment %}
@@ -229,7 +229,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <hr/>
 
-<h2 id="setup">Class online document</h2>
+<h2 id="setup">CLASS ONLINE DOCUMENT</h2>
 <p id="collaborative_notes">
   <b>We will use this <a href=" http://pad.software-carpentry.org/2018-11-07-Imperial">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.</b>
 </p>
